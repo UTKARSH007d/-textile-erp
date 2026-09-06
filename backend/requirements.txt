@@ -1,0 +1,8 @@
+FastAPI
+Uvicorn
+SQLAlchemy
+PostgreSQL driver
+python-dotenv
+PyJWT
+python-multipart
+Google Gemini SDK
